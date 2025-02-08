@@ -1,0 +1,1116 @@
+Unique Event Type, Error Reason, and Message Triplets:
+Event: agent_activity_updated
+  Reason: invalid
+  Message: Conversion from bool to std::string is unsupported.
+
+Event: agent_activity_updated
+  Reason: invalid
+  Message: no such field: agent_fullname.
+
+Event: agent_activity_updated
+  Reason: invalid
+  Message: no such field: agent_id.
+
+Event: agent_activity_updated
+  Reason: invalid
+  Message: no such field: call_id.
+
+Event: agent_activity_updated
+  Reason: invalid
+  Message: no such field: contact_phone.
+
+Event: agent_activity_updated
+  Reason: invalid
+  Message: no such field: conversation_happened.
+
+Event: agent_activity_updated
+  Reason: invalid
+  Message: no such field: direction.
+
+Event: agent_activity_updated
+  Reason: invalid
+  Message: no such field: disposition.
+
+Event: agent_activity_updated
+  Reason: invalid
+  Message: no such field: email.
+
+Event: agent_activity_updated
+  Reason: invalid
+  Message: no such field: ended_at.
+
+Event: agent_activity_updated
+  Reason: invalid
+  Message: no such field: journey_execution_name.
+
+Event: agent_activity_updated
+  Reason: invalid
+  Message: no such field: journey_friendly_id.
+
+Event: agent_activity_updated
+  Reason: invalid
+  Message: no such field: journey_node_friendly_id.
+
+Event: agent_activity_updated
+  Reason: invalid
+  Message: no such field: journey_node_uuid.
+
+Event: agent_activity_updated
+  Reason: invalid
+  Message: no such field: journey_uuid.
+
+Event: agent_activity_updated
+  Reason: invalid
+  Message: no such field: phone.
+
+Event: agent_activity_updated
+  Reason: invalid
+  Message: no such field: regal_voice_phone.
+
+Event: agent_activity_updated
+  Reason: invalid
+  Message: no such field: regal_voice_phone_internal_name.
+
+Event: agent_activity_updated
+  Reason: invalid
+  Message: no such field: talk_time.
+
+Event: agent_activity_updated
+  Reason: invalid
+  Message: no such field: type.
+
+Event: call_ivr_triggered
+  Reason: invalid
+  Message: Conversion from bool to std::string is unsupported.
+
+Event: call_ivr_triggered
+  Reason: invalid
+  Message: no such field: agent_firstname.
+
+Event: call_ivr_triggered
+  Reason: invalid
+  Message: no such field: agent_teams.
+
+Event: call_ivr_triggered
+  Reason: invalid
+  Message: no such field: conversation_happened.
+
+Event: call_ivr_triggered
+  Reason: invalid
+  Message: no such field: talk_time.
+
+Event: call_ivr_triggered
+  Reason: invalid
+  Message: no such field: type.
+
+Event: call_placed
+  Reason: invalid
+  Message: Conversion from bool to std::string is unsupported.
+
+Event: call_placed
+  Reason: invalid
+  Message: no such field: agent_firstname.
+
+Event: call_placed
+  Reason: invalid
+  Message: no such field: agent_id.
+
+Event: call_placed
+  Reason: invalid
+  Message: no such field: agent_teams.
+
+Event: call_placed
+  Reason: invalid
+  Message: no such field: call_id.
+
+Event: call_placed
+  Reason: invalid
+  Message: no such field: completed_at.
+
+Event: call_placed
+  Reason: invalid
+  Message: no such field: conversation_happened.
+
+Event: call_placed
+  Reason: invalid
+  Message: no such field: disposition.
+
+Event: call_placed
+  Reason: invalid
+  Message: no such field: ended_at.
+
+Event: call_placed
+  Reason: invalid
+  Message: no such field: handle_time.
+
+Event: call_placed
+  Reason: invalid
+  Message: no such field: started_at.
+
+Event: call_placed
+  Reason: invalid
+  Message: no such field: talk_time.
+
+Event: call_placed
+  Reason: invalid
+  Message: no such field: wrapup_time.
+
+Event: call_recording_available
+  Reason: invalid
+  Message: Conversion from bool to std::string is unsupported.
+
+Event: call_recording_available
+  Reason: invalid
+  Message: no such field: agent_firstname.
+
+Event: call_recording_available
+  Reason: invalid
+  Message: no such field: agent_fullname.
+
+Event: call_recording_available
+  Reason: invalid
+  Message: no such field: agent_id.
+
+Event: call_recording_available
+  Reason: invalid
+  Message: no such field: agent_teams.
+
+Event: call_recording_available
+  Reason: invalid
+  Message: no such field: completed_at.
+
+Event: call_recording_available
+  Reason: invalid
+  Message: no such field: conversation_happened.
+
+Event: call_recording_available
+  Reason: invalid
+  Message: no such field: disposition.
+
+Event: call_recording_available
+  Reason: invalid
+  Message: no such field: handle_time.
+
+Event: call_recording_available
+  Reason: invalid
+  Message: no such field: wrapup_time.
+
+Event: call_transcripts_available
+  Reason: invalid
+  Message: Conversion from bool to std::string is unsupported.
+
+Event: call_transcripts_available
+  Reason: invalid
+  Message: no such field: agent_firstname.
+
+Event: call_transcripts_available
+  Reason: invalid
+  Message: no such field: agent_fullname.
+
+Event: call_transcripts_available
+  Reason: invalid
+  Message: no such field: agent_teams.
+
+Event: call_transcripts_available
+  Reason: invalid
+  Message: no such field: conversation_happened.
+
+Event: call_transcripts_available
+  Reason: invalid
+  Message: no such field: direction.
+
+Event: call_transcripts_available
+  Reason: invalid
+  Message: no such field: ended_at.
+
+Event: call_transcripts_available
+  Reason: invalid
+  Message: no such field: handle_time.
+
+Event: call_transcripts_available
+  Reason: invalid
+  Message: no such field: journey_execution_name.
+
+Event: call_transcripts_available
+  Reason: invalid
+  Message: no such field: journey_name.
+
+Event: call_transcripts_available
+  Reason: invalid
+  Message: no such field: journey_uuid.
+
+Event: call_transcripts_available
+  Reason: invalid
+  Message: no such field: regal_voice_phone.
+
+Event: call_transcripts_available
+  Reason: invalid
+  Message: no such field: regal_voice_phone_internal_name.
+
+Event: call_transcripts_available
+  Reason: invalid
+  Message: no such field: related_object_type.
+
+Event: call_transcripts_available
+  Reason: invalid
+  Message: no such field: started_at.
+
+Event: call_transcripts_available
+  Reason: invalid
+  Message: no such field: talk_time.
+
+Event: call_transcripts_available
+  Reason: invalid
+  Message: no such field: type.
+
+Event: call_transcripts_available
+  Reason: invalid
+  Message: no such field: wrapup_time.
+
+Event: call_wrapup
+  Reason: invalid
+  Message: Conversion from bool to std::string is unsupported.
+
+Event: call_wrapup
+  Reason: invalid
+  Message: no such field: agent_firstname.
+
+Event: call_wrapup
+  Reason: invalid
+  Message: no such field: agent_id.
+
+Event: call_wrapup
+  Reason: invalid
+  Message: no such field: agent_teams.
+
+Event: call_wrapup
+  Reason: invalid
+  Message: no such field: call_id.
+
+Event: call_wrapup
+  Reason: invalid
+  Message: no such field: completed_at.
+
+Event: call_wrapup
+  Reason: invalid
+  Message: no such field: conversation_happened.
+
+Event: call_wrapup
+  Reason: invalid
+  Message: no such field: disposition.
+
+Event: call_wrapup
+  Reason: invalid
+  Message: no such field: ended_at.
+
+Event: call_wrapup
+  Reason: invalid
+  Message: no such field: handle_time.
+
+Event: call_wrapup
+  Reason: invalid
+  Message: no such field: started_at.
+
+Event: call_wrapup
+  Reason: invalid
+  Message: no such field: talk_time.
+
+Event: call_wrapup
+  Reason: invalid
+  Message: no such field: wrapup_time.
+
+Event: contact_attribute_edited
+  Reason: invalid
+  Message: Conversion from bool to std::string is unsupported.
+
+Event: contact_attribute_edited
+  Reason: invalid
+  Message: no such field: agent_firstname.
+
+Event: contact_attribute_edited
+  Reason: invalid
+  Message: no such field: agent_fullname.
+
+Event: contact_attribute_edited
+  Reason: invalid
+  Message: no such field: agent_id.
+
+Event: contact_attribute_edited
+  Reason: invalid
+  Message: no such field: agent_teams.
+
+Event: contact_attribute_edited
+  Reason: invalid
+  Message: no such field: call_id.
+
+Event: contact_attribute_edited
+  Reason: invalid
+  Message: no such field: completed_at.
+
+Event: contact_attribute_edited
+  Reason: invalid
+  Message: no such field: conversation_happened.
+
+Event: contact_attribute_edited
+  Reason: invalid
+  Message: no such field: direction.
+
+Event: contact_attribute_edited
+  Reason: invalid
+  Message: no such field: disposition.
+
+Event: contact_attribute_edited
+  Reason: invalid
+  Message: no such field: ended_at.
+
+Event: contact_attribute_edited
+  Reason: invalid
+  Message: no such field: handle_time.
+
+Event: contact_attribute_edited
+  Reason: invalid
+  Message: no such field: journey_execution_name.
+
+Event: contact_attribute_edited
+  Reason: invalid
+  Message: no such field: journey_friendly_id.
+
+Event: contact_attribute_edited
+  Reason: invalid
+  Message: no such field: journey_name.
+
+Event: contact_attribute_edited
+  Reason: invalid
+  Message: no such field: journey_node_friendly_id.
+
+Event: contact_attribute_edited
+  Reason: invalid
+  Message: no such field: journey_node_uuid.
+
+Event: contact_attribute_edited
+  Reason: invalid
+  Message: no such field: journey_uuid.
+
+Event: contact_attribute_edited
+  Reason: invalid
+  Message: no such field: regal_voice_phone.
+
+Event: contact_attribute_edited
+  Reason: invalid
+  Message: no such field: regal_voice_phone_internal_name.
+
+Event: contact_attribute_edited
+  Reason: invalid
+  Message: no such field: related_object_id.
+
+Event: contact_attribute_edited
+  Reason: invalid
+  Message: no such field: related_object_type.
+
+Event: contact_attribute_edited
+  Reason: invalid
+  Message: no such field: started_at.
+
+Event: contact_attribute_edited
+  Reason: invalid
+  Message: no such field: talk_time.
+
+Event: contact_attribute_edited
+  Reason: invalid
+  Message: no such field: type.
+
+Event: contact_attribute_edited
+  Reason: invalid
+  Message: no such field: wrapup_time.
+
+Event: contact_created
+  Reason: invalid
+  Message: Conversion from bool to std::string is unsupported.
+
+Event: contact_created
+  Reason: invalid
+  Message: no such field: agent_fullname.
+
+Event: contact_created
+  Reason: invalid
+  Message: no such field: agent_teams.
+
+Event: contact_created
+  Reason: invalid
+  Message: no such field: completed_at.
+
+Event: contact_created
+  Reason: invalid
+  Message: no such field: conversation_happened.
+
+Event: contact_created
+  Reason: invalid
+  Message: no such field: journey_friendly_id.
+
+Event: contact_created
+  Reason: invalid
+  Message: no such field: journey_node_friendly_id.
+
+Event: contact_created
+  Reason: invalid
+  Message: no such field: journey_uuid.
+
+Event: contact_created
+  Reason: invalid
+  Message: no such field: related_object_id.
+
+Event: contact_created
+  Reason: invalid
+  Message: no such field: talk_time.
+
+Event: contact_created
+  Reason: invalid
+  Message: no such field: wrapup_time.
+
+Event: contact_email_created
+  Reason: invalid
+  Message: Conversion from bool to std::string is unsupported.
+
+Event: contact_email_created
+  Reason: invalid
+  Message: no such field: agent_email.
+
+Event: contact_email_created
+  Reason: invalid
+  Message: no such field: agent_firstname.
+
+Event: contact_email_created
+  Reason: invalid
+  Message: no such field: completed_at.
+
+Event: contact_email_created
+  Reason: invalid
+  Message: no such field: disposition.
+
+Event: contact_email_created
+  Reason: invalid
+  Message: no such field: handle_time.
+
+Event: contact_email_created
+  Reason: invalid
+  Message: no such field: journey_node_uuid.
+
+Event: contact_email_created
+  Reason: invalid
+  Message: no such field: journey_uuid.
+
+Event: contact_email_created
+  Reason: invalid
+  Message: no such field: regal_voice_phone_internal_name.
+
+Event: contact_email_created
+  Reason: invalid
+  Message: no such field: started_at.
+
+Event: contact_experiment_assigned
+  Reason: invalid
+  Message: Conversion from bool to std::string is unsupported.
+
+Event: contact_experiment_assigned
+  Reason: invalid
+  Message: no such field: agent_email.
+
+Event: contact_experiment_assigned
+  Reason: invalid
+  Message: no such field: agent_firstname.
+
+Event: contact_experiment_assigned
+  Reason: invalid
+  Message: no such field: completed_at.
+
+Event: contact_experiment_assigned
+  Reason: invalid
+  Message: no such field: conversation_happened.
+
+Event: contact_experiment_assigned
+  Reason: invalid
+  Message: no such field: handle_time.
+
+Event: contact_experiment_assigned
+  Reason: invalid
+  Message: no such field: regal_voice_phone.
+
+Event: contact_experiment_assigned
+  Reason: invalid
+  Message: no such field: related_object_type.
+
+Event: contact_phone_created
+  Reason: invalid
+  Message: Conversion from bool to std::string is unsupported.
+
+Event: contact_phone_created
+  Reason: invalid
+  Message: no such field: disposition.
+
+Event: contact_phone_created
+  Reason: invalid
+  Message: no such field: ended_at.
+
+Event: contact_phone_created
+  Reason: invalid
+  Message: no such field: journey_friendly_id.
+
+Event: contact_phone_created
+  Reason: invalid
+  Message: no such field: journey_uuid.
+
+Event: contact_phone_created
+  Reason: invalid
+  Message: no such field: regal_voice_phone.
+
+Event: contact_phone_created
+  Reason: invalid
+  Message: no such field: regal_voice_phone_internal_name.
+
+Event: contact_phone_created
+  Reason: invalid
+  Message: no such field: talk_time.
+
+Event: contact_phone_created
+  Reason: invalid
+  Message: no such field: wrapup_time.
+
+Event: contact_subscribed
+  Reason: invalid
+  Message: Conversion from bool to std::string is unsupported.
+
+Event: contact_subscribed
+  Reason: invalid
+  Message: no such field: agent_firstname.
+
+Event: contact_subscribed
+  Reason: invalid
+  Message: no such field: agent_id.
+
+Event: contact_subscribed
+  Reason: invalid
+  Message: no such field: agent_teams.
+
+Event: contact_subscribed
+  Reason: invalid
+  Message: no such field: contact_phone.
+
+Event: contact_subscribed
+  Reason: invalid
+  Message: no such field: conversation_happened.
+
+Event: contact_subscribed
+  Reason: invalid
+  Message: no such field: direction.
+
+Event: contact_subscribed
+  Reason: invalid
+  Message: no such field: handle_time.
+
+Event: contact_subscribed
+  Reason: invalid
+  Message: no such field: journey_friendly_id.
+
+Event: contact_subscribed
+  Reason: invalid
+  Message: no such field: journey_name.
+
+Event: contact_subscribed
+  Reason: invalid
+  Message: no such field: regal_voice_phone.
+
+Event: contact_subscribed
+  Reason: invalid
+  Message: no such field: regal_voice_phone_internal_name.
+
+Event: contact_subscribed
+  Reason: invalid
+  Message: no such field: related_object_id.
+
+Event: contact_subscribed
+  Reason: invalid
+  Message: no such field: related_object_type.
+
+Event: contact_subscribed
+  Reason: invalid
+  Message: no such field: started_at.
+
+Event: contact_subscribed
+  Reason: invalid
+  Message: no such field: type.
+
+Event: contact_subscribed
+  Reason: invalid
+  Message: no such field: wrapup_time.
+
+Event: contact_unsubscribed
+  Reason: invalid
+  Message: Conversion from bool to std::string is unsupported.
+
+Event: contact_unsubscribed
+  Reason: invalid
+  Message: no such field: agent_email.
+
+Event: contact_unsubscribed
+  Reason: invalid
+  Message: no such field: agent_teams.
+
+Event: contact_unsubscribed
+  Reason: invalid
+  Message: no such field: contact_phone.
+
+Event: contact_unsubscribed
+  Reason: invalid
+  Message: no such field: conversation_happened.
+
+Event: contact_unsubscribed
+  Reason: invalid
+  Message: no such field: related_object_id.
+
+Event: mms_sent
+  Reason: invalid
+  Message: no such field: completed_at.
+
+Event: mms_sent
+  Reason: invalid
+  Message: no such field: handle_time.
+
+Event: mms_sent
+  Reason: invalid
+  Message: no such field: journey_node_uuid.
+
+Event: scheduled_callback_requested
+  Reason: invalid
+  Message: Conversion from bool to std::string is unsupported.
+
+Event: scheduled_callback_requested
+  Reason: invalid
+  Message: no such field: agent_teams.
+
+Event: scheduled_callback_requested
+  Reason: invalid
+  Message: no such field: completed_at.
+
+Event: scheduled_callback_requested
+  Reason: invalid
+  Message: no such field: ended_at.
+
+Event: scheduled_callback_requested
+  Reason: invalid
+  Message: no such field: handle_time.
+
+Event: scheduled_callback_requested
+  Reason: invalid
+  Message: no such field: related_object_id.
+
+Event: sms_conversation_completed
+  Reason: invalid
+  Message: no such field: agent_teams.
+
+Event: sms_conversation_completed
+  Reason: invalid
+  Message: no such field: call_id.
+
+Event: sms_queued
+  Reason: invalid
+  Message: Conversion from bool to std::string is unsupported.
+
+Event: sms_queued
+  Reason: invalid
+  Message: no such field: agent_email.
+
+Event: sms_queued
+  Reason: invalid
+  Message: no such field: agent_firstname.
+
+Event: sms_queued
+  Reason: invalid
+  Message: no such field: agent_fullname.
+
+Event: sms_queued
+  Reason: invalid
+  Message: no such field: agent_teams.
+
+Event: sms_queued
+  Reason: invalid
+  Message: no such field: call_id.
+
+Event: sms_queued
+  Reason: invalid
+  Message: no such field: completed_at.
+
+Event: sms_queued
+  Reason: invalid
+  Message: no such field: conversation_happened.
+
+Event: sms_queued
+  Reason: invalid
+  Message: no such field: disposition.
+
+Event: sms_queued
+  Reason: invalid
+  Message: no such field: ended_at.
+
+Event: sms_queued
+  Reason: invalid
+  Message: no such field: handle_time.
+
+Event: sms_queued
+  Reason: invalid
+  Message: no such field: started_at.
+
+Event: sms_queued
+  Reason: invalid
+  Message: no such field: type.
+
+Event: sms_queued
+  Reason: invalid
+  Message: no such field: wrapup_time.
+
+Event: sms_received
+  Reason: invalid
+  Message: Conversion from bool to std::string is unsupported.
+
+Event: sms_received
+  Reason: invalid
+  Message: no such field: call_id.
+
+Event: sms_received
+  Reason: invalid
+  Message: no such field: completed_at.
+
+Event: sms_received
+  Reason: invalid
+  Message: no such field: conversation_happened.
+
+Event: sms_received
+  Reason: invalid
+  Message: no such field: ended_at.
+
+Event: sms_received
+  Reason: invalid
+  Message: no such field: handle_time.
+
+Event: sms_received
+  Reason: invalid
+  Message: no such field: journey_friendly_id.
+
+Event: sms_received
+  Reason: invalid
+  Message: no such field: journey_name.
+
+Event: sms_received
+  Reason: invalid
+  Message: no such field: journey_node_friendly_id.
+
+Event: sms_received
+  Reason: invalid
+  Message: no such field: talk_time.
+
+Event: sms_received
+  Reason: invalid
+  Message: no such field: type.
+
+Event: sms_sent
+  Reason: invalid
+  Message: Conversion from bool to std::string is unsupported.
+
+Event: sms_sent
+  Reason: invalid
+  Message: no such field: agent_email.
+
+Event: sms_sent
+  Reason: invalid
+  Message: no such field: agent_firstname.
+
+Event: sms_sent
+  Reason: invalid
+  Message: no such field: agent_fullname.
+
+Event: sms_sent
+  Reason: invalid
+  Message: no such field: agent_id.
+
+Event: sms_sent
+  Reason: invalid
+  Message: no such field: agent_teams.
+
+Event: sms_sent
+  Reason: invalid
+  Message: no such field: call_id.
+
+Event: sms_sent
+  Reason: invalid
+  Message: no such field: completed_at.
+
+Event: sms_sent
+  Reason: invalid
+  Message: no such field: conversation_happened.
+
+Event: sms_sent
+  Reason: invalid
+  Message: no such field: disposition.
+
+Event: sms_sent
+  Reason: invalid
+  Message: no such field: ended_at.
+
+Event: sms_sent
+  Reason: invalid
+  Message: no such field: handle_time.
+
+Event: sms_sent
+  Reason: invalid
+  Message: no such field: started_at.
+
+Event: sms_sent
+  Reason: invalid
+  Message: no such field: talk_time.
+
+Event: sms_sent
+  Reason: invalid
+  Message: no such field: type.
+
+Event: sms_sent
+  Reason: invalid
+  Message: no such field: wrapup_time.
+
+Event: sms_undelivered
+  Reason: invalid
+  Message: Conversion from bool to std::string is unsupported.
+
+Event: sms_undelivered
+  Reason: invalid
+  Message: no such field: agent_id.
+
+Event: sms_undelivered
+  Reason: invalid
+  Message: no such field: disposition.
+
+Event: task_canceled
+  Reason: invalid
+  Message: Conversion from bool to std::string is unsupported.
+
+Event: task_canceled
+  Reason: invalid
+  Message: no such field: agent_email.
+
+Event: task_canceled
+  Reason: invalid
+  Message: no such field: agent_teams.
+
+Event: task_canceled
+  Reason: invalid
+  Message: no such field: call_id.
+
+Event: task_canceled
+  Reason: invalid
+  Message: no such field: completed_at.
+
+Event: task_canceled
+  Reason: invalid
+  Message: no such field: conversation_happened.
+
+Event: task_canceled
+  Reason: invalid
+  Message: no such field: disposition.
+
+Event: task_canceled
+  Reason: invalid
+  Message: no such field: handle_time.
+
+Event: task_canceled
+  Reason: invalid
+  Message: no such field: related_object_id.
+
+Event: task_canceled
+  Reason: invalid
+  Message: no such field: related_object_type.
+
+Event: task_canceled
+  Reason: invalid
+  Message: no such field: started_at.
+
+Event: task_canceled
+  Reason: invalid
+  Message: no such field: talk_time.
+
+Event: task_created
+  Reason: invalid
+  Message: Conversion from bool to std::string is unsupported.
+
+Event: task_created
+  Reason: invalid
+  Message: no such field: agent_email.
+
+Event: task_created
+  Reason: invalid
+  Message: no such field: agent_firstname.
+
+Event: task_created
+  Reason: invalid
+  Message: no such field: agent_fullname.
+
+Event: task_created
+  Reason: invalid
+  Message: no such field: agent_id.
+
+Event: task_created
+  Reason: invalid
+  Message: no such field: agent_teams.
+
+Event: task_created
+  Reason: invalid
+  Message: no such field: call_id.
+
+Event: task_created
+  Reason: invalid
+  Message: no such field: completed_at.
+
+Event: task_created
+  Reason: invalid
+  Message: no such field: conversation_happened.
+
+Event: task_created
+  Reason: invalid
+  Message: no such field: disposition.
+
+Event: task_created
+  Reason: invalid
+  Message: no such field: ended_at.
+
+Event: task_created
+  Reason: invalid
+  Message: no such field: handle_time.
+
+Event: task_created
+  Reason: invalid
+  Message: no such field: started_at.
+
+Event: task_created
+  Reason: invalid
+  Message: no such field: talk_time.
+
+Event: task_created
+  Reason: invalid
+  Message: no such field: wrapup_time.
+
+Event: task_reservation_created
+  Reason: invalid
+  Message: Conversion from bool to std::string is unsupported.
+
+Event: task_reservation_created
+  Reason: invalid
+  Message: no such field: agent_email.
+
+Event: task_reservation_created
+  Reason: invalid
+  Message: no such field: agent_firstname.
+
+Event: task_reservation_created
+  Reason: invalid
+  Message: no such field: agent_fullname.
+
+Event: task_reservation_created
+  Reason: invalid
+  Message: no such field: agent_id.
+
+Event: task_reservation_created
+  Reason: invalid
+  Message: no such field: agent_teams.
+
+Event: task_reservation_created
+  Reason: invalid
+  Message: no such field: call_id.
+
+Event: task_reservation_created
+  Reason: invalid
+  Message: no such field: completed_at.
+
+Event: task_reservation_created
+  Reason: invalid
+  Message: no such field: conversation_happened.
+
+Event: task_reservation_created
+  Reason: invalid
+  Message: no such field: disposition.
+
+Event: task_reservation_created
+  Reason: invalid
+  Message: no such field: ended_at.
+
+Event: task_reservation_created
+  Reason: invalid
+  Message: no such field: handle_time.
+
+Event: task_reservation_created
+  Reason: invalid
+  Message: no such field: started_at.
+
+Event: task_reservation_created
+  Reason: invalid
+  Message: no such field: talk_time.
+
+Event: task_reservation_created
+  Reason: invalid
+  Message: no such field: wrapup_time.
+
+Event: task_reservations_accepted
+  Reason: invalid
+  Message: Conversion from bool to std::string is unsupported.
+
+Event: task_reservations_accepted
+  Reason: invalid
+  Message: no such field: agent_email.
+
+Event: task_reservations_accepted
+  Reason: invalid
+  Message: no such field: agent_firstname.
+
+Event: task_reservations_accepted
+  Reason: invalid
+  Message: no such field: agent_fullname.
+
+Event: task_reservations_accepted
+  Reason: invalid
+  Message: no such field: agent_id.
+
+Event: task_reservations_accepted
+  Reason: invalid
+  Message: no such field: agent_teams.
+
+Event: task_reservations_accepted
+  Reason: invalid
+  Message: no such field: call_id.
+
+Event: task_reservations_accepted
+  Reason: invalid
+  Message: no such field: completed_at.
+
+Event: task_reservations_accepted
+  Reason: invalid
+  Message: no such field: conversation_happened.
+
+Event: task_reservations_accepted
+  Reason: invalid
+  Message: no such field: disposition.
+
+Event: task_reservations_accepted
+  Reason: invalid
+  Message: no such field: ended_at.
+
+Event: task_reservations_accepted
+  Reason: invalid
+  Message: no such field: handle_time.
+
+Event: task_reservations_accepted
+  Reason: invalid
+  Message: no such field: started_at.
+
+Event: task_reservations_accepted
+  Reason: invalid
+  Message: no such field: talk_time.
+
+Event: task_reservations_accepted
+  Reason: invalid
+  Message: no such field: wrapup_time.
